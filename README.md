@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @BenjaminZeisberg
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m interested in data science projects!
 - 📫 How to reach me at benjamin.zeisberg@icloud.com
 
 <!---
